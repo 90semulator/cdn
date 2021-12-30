@@ -1,9 +1,0 @@
-{
-	"packageUrl" : "https://raw.githubusercontent.com/superemu/cdn_gba/master",
-    	"remoteManifestUrl" : "https://raw.githubusercontent.com/superemu/cdn_gba/master/project.manifest",
-    	"remoteVersionUrl" : "https://raw.githubusercontent.com/superemu/cdn_gba/master/version.manifest",
-	"version" : "@version@",
-	"engineVersion" : "3.6.1",
-	"assets" : {@list_assets@},
-    "searchPaths" : []
-}
